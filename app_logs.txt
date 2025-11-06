@@ -1,0 +1,23 @@
+2025-07-31 15:20:25,412 Starting Bokeh server version 3.7.3 (running on Tornado 6.5.1)
+2025-07-31 15:20:25,412 User authentication hooks NOT provided (default user enabled)
+2025-07-31 15:20:25,415 Bokeh app running at: http://localhost:5006/app
+2025-07-31 15:20:25,415 Starting Bokeh server with process id: 501862
+WARNING:param.panel_extension: fast extension not recognized and will be skipped.
+2025-07-31 15:20:30,254 fast extension not recognized and will be skipped.
+WARNING:param.panel_extension: bootstrap extension not recognized and will be skipped.
+2025-07-31 15:20:30,254 bootstrap extension not recognized and will be skipped.
+2025-07-31 15:20:30,861 WebSocket connection opened
+2025-07-31 15:20:30,861 ServerConnection created
+WARNING:param.panel_extension: fast extension not recognized and will be skipped.
+2025-07-31 15:20:44,776 fast extension not recognized and will be skipped.
+WARNING:param.panel_extension: bootstrap extension not recognized and will be skipped.
+2025-07-31 15:20:44,776 bootstrap extension not recognized and will be skipped.
+2025-07-31 15:20:45,149 WebSocket connection closed: code=1001, reason=None
+2025-07-31 15:20:45,209 WebSocket connection opened
+2025-07-31 15:20:45,209 ServerConnection created
+User input received: hello
+User input received: what caused WWI?
+User input received: what was the lession learned  form that period
+User input received: but , did the world took stock of the lession 
+
+Interrupted, shutting down
